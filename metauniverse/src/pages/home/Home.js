@@ -1,10 +1,9 @@
 import React from 'react'
+import Topbar from '../../components/topbar/Topbar'
 
 function Home() {
     return (
-        <div>
-            This is a home page
-        </div>
+       <Topbar/>
     )
 }
 
