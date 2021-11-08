@@ -1,3 +1,3 @@
 # introduction
- a social media app similar to facebook currently known as metauniverse 
+ a social media app similar to facebook currently known as MetaVerse 
  # socialmedia-app

@@ -6,7 +6,7 @@ function Topbar() {
     return (
         <div className='topbarContainer'>
             <div className="topbarLeft">
-                <span className='logo'> MetaUniverse</span>
+                <span className='logo'> Metaverse</span>
             </div>
             <div className="topbarCenter">
                 <div className="searchbar">
@@ -33,6 +33,7 @@ function Topbar() {
                         <span className="topbarIconBadge">3</span>
                     </div>
                 </div>
+                <img src='/assests/person/1.jpeg' alt='' className='topbarImg'/>
             </div>
         </div>
     )
