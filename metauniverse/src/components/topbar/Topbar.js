@@ -10,7 +10,7 @@ function Topbar() {
             </div>
             <div className="topbarCenter">
                 <div className="searchbar">
-                   <Search/>
+                   <Search className='searchIcon'/>
                 <input placeholder='Search for friends,post or video'  className='searchInput'/>
                 </div>
             </div>
