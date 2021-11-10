@@ -4,6 +4,7 @@ import {PermMedia,Label,Room, EmojiEmotions} from '@material-ui/icons';
 
 function Share() {
     return (
+        <>
         <div className='share'>
         <div className="shareWrapper">
             <div className="shareTop">
@@ -34,6 +35,7 @@ function Share() {
             </div>
         </div>
         </div>
+        </>
     );
 }
 
